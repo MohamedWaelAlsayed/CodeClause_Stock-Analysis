@@ -9,3 +9,6 @@ using Jupyter-notebook(python)
 
 
 libraries : plotly, pandas, numpy, matplotlib
+
+
+Data link: https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data
