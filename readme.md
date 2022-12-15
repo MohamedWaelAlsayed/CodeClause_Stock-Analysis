@@ -1,5 +1,7 @@
 Stock Analysis Project task in Data Science intern with CodeClause
 
+Built beautiful interactive visualizations using plotly to gain insights from data
+
 Made By 
 
 Mohamed Wael Alsayed Ahmed
